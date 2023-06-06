@@ -1,4 +1,4 @@
-### Hi there 👋
+i am okhomina lizzy and i am a programmer
 
 <!--
 **okhominalizzy/okhominalizzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
