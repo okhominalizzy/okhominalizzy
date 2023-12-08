@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Okhomina Elizabeth</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate .NET developer</h3>
 
-- 🔭 I’m currently working on **website project**
+- 🔭 I’m currently working on **Yard project**
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **ASP.NET Core**
 
 - 📫 How to reach me **edelegbaelizabeth@gmail.com**
 
